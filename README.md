@@ -1,2 +1,2 @@
 # AZURE-Exercises
-Practice for ertification
+Practice for certification
